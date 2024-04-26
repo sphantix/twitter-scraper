@@ -11,7 +11,7 @@ You can use this library to get the text of any user's Tweets trivially.
 ## Installation
 
 ```shell
-go get -u github.com/n0madic/twitter-scraper
+go get -u github.com/sphantix/twitter-scraper
 ```
 
 ## Usage
